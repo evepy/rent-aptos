@@ -95,7 +95,7 @@ function App2() {
     </div>
   );
 }
-//Clase 4 y 5: contrato aptogochi,metodos de escritura(antes View, ahora RUN) y SURF
+//Clase 4 : contrato aptogochi,metodos de escritura(antes View, ahora RUN) y SURF
 function App3() {
   //Probando modulo si registra Aptogochi
   const hasAptogotchi = async () => {
